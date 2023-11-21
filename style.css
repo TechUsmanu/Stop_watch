@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  #timer {
+    font-size: 2em;
+    margin: 20px 0;
+  }
+
+  #controls {
+    margin-bottom:auto;
+    margin-top: 20px;
+  }
